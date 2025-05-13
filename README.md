@@ -8,7 +8,8 @@ This Tableau storyboard analyzes table sales profitability across product catego
 ---
 
 ## 🌐 Live Dashboard  
-👉 [Click here to view it on Tableau Public]([https://public.tableau.com/views/YourDashboardNameHere](https://public.tableau.com/views/StoryBoard-TablesProfitability_17462338237670/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+## 🌐 Live Dashboard  
+👉 [Click here to view it on Tableau Public](https://public.tableau.com/views/StoryBoard-TablesProfitability_17462338237670/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
